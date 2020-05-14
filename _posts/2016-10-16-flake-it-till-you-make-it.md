@@ -2,9 +2,9 @@
 layout: post
 title: Bloquea anuncios utilizando una Raspberry PI
 subtitle: Páginas web sin publicidad. Sin bloqueadores de anuncios.
-cover-img: /assets/img/pi-hole-admin.png
 tags: [internet, raspberry-pi]
 ---
+![Panel de administración de Pi Hole](/assets/img/pi-hole-admin.png)
 
 Cada vez es mayor el número de **páginas que nos obligan a desactivar los bloqueadores de anuncios** para acceder a sus contenidos. En cierta medida es comprensible puesto que no deja de ser una manera de obtener ingresos, pero cuando esta publicidad se convierte en abusiva y resulta imposible identificar el contenido entre toda ella.
 
