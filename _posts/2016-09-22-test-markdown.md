@@ -18,7 +18,7 @@ Este blog, después de tantos años, fue convirtiéndose en un dinosaurio mastod
 
 Así que decidí matar al dinosaurio y empezar de cero. Bueno, en realidad sigue estando disponible, aunque para ahorrarme quebraderos de cabeza lo he convertido en contenido estático, lo he disecado.
 
-¿Y para qué?. – Os preguntaréis.
+> ¿Y para qué?. – Os preguntaréis.
 
 Quiero sencillez, reducir el blog a la mínima expresión. Que vuelva a convertirse en la afición que un día fue y volver a sentirlo como mío, lejos del ruido de las redes sociales. **Me niego a escribir parrafadas en Facebook** que más temprano que tarde quedarán en el olvido o tweets carentes de contenido para expresar mis opiniones. No, un blog permite hacer todo eso mucho mejor.
 
