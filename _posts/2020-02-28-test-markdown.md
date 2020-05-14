@@ -1,78 +1,25 @@
 ---
 layout: post
-title: Sample blog post
+title: Recapitulando
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [personal]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+**Empecé bocabit.com hace ya 10 años**, casi por casualidad y sin ningún objetivo claro más que el de escribir sobre lo que me apeteciese y que cuatro gatos me leyesen. A base de post chorras y otros algo más currados, el blog fue creciendo e incluso cambió varias veces de dominio cuando un diario asturiano se puso en contacto conmigo para colaborar con ellos.
 
-**Here is some bold text**
+Por aquel entonces, los blogs empezaban a estar de moda y poco a poco nos íbamos dando cuenta de que todo aquello se podía monetizar a base de posts patrocinados, enlaces y sobre todo Adsense. Que había empresas a las que les interesaba proporcionar visibilidad a sus productos y te los dejaba probar… ¡Gratis! **Era emocionante** no saber qué iba a ser lo próximo, mirar cada poco las visitas, refrescar la página y ver que había un nuevo comentario… Hasta que llegó Google.
 
-## Here is a secondary heading
+Cuando Google empezó a toquetear sus algoritmos de búsqueda nos bajó a muchos los pies a la tierra. De golpe. Luego se pusieron de moda las redes sociales y nos remataron. Se convirtieron en el centro neurálgico de la conversación y dieron la estocada definitiva a los ya por entonces escasos comentarios.
 
-Here's a useless table:
+Este blog, después de tantos años, fue convirtiéndose en un dinosaurio mastodóntico, dependiente de muchos plugins, con una base de datos enorme, muchos comentarios, contenido bueno, feo y regular. La sensación de no controlarlo lo convirtió en un lastre en el que resultaba difícil escribir más que en un motivo de orgullo.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Así que decidí matar al dinosaurio y empezar de cero. Bueno, en realidad sigue estando disponible, aunque para ahorrarme quebraderos de cabeza lo he convertido en contenido estático, lo he disecado.
 
+¿Y para qué?. – Os preguntaréis.
 
-How about a yummy crepe?
+Quiero sencillez, reducir el blog a la mínima expresión. Que vuelva a convertirse en la afición que un día fue y volver a sentirlo como mío, lejos del ruido de las redes sociales. **Me niego a escribir parrafadas en Facebook** que más temprano que tarde quedarán en el olvido o tweets carentes de contenido para expresar mis opiniones. No, un blog permite hacer todo eso mucho mejor.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+No puedo prometer que vaya a escribir con mucha frecuencia, ni tampoco que lo vaya a hacer de temas interesantes, pero al menos sí que lo intentaré. Veremos en qué acaba la cosa, o mejor dicho, cómo empieza.
