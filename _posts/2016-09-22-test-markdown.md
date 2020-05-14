@@ -2,8 +2,7 @@
 layout: post
 title: Recapitulando
 subtitle: Todo blog tiene su historia
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+cover-img: /assets/img/dinosaurio.jpg
 tags: [personal]
 comments: true
 ---
