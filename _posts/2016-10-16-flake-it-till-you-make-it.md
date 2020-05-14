@@ -2,7 +2,7 @@
 layout: post
 title: Bloquea anuncios utilizando una Raspberry PI
 subtitle: Páginas web sin publicidad. Sin bloqueadores de anuncios.
-cover-img: /assets/img/pi-hole-admin.jpg
+cover-img: /assets/img/pi-hole-admin.png
 tags: [internet, raspberry-pi]
 ---
 
