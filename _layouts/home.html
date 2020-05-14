@@ -21,7 +21,7 @@ layout: page
 
     <p class="post-meta">
       {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ post.date | date: date_format }}
+      Escrito el {{ post.date | date: date_format }}
     </p>
 
     <div class="post-entry-container">
@@ -63,12 +63,12 @@ layout: page
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Posts más nuevos</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Posts más antiguos &rarr;</a>
   </li>
   {% endif %}
 </ul>
