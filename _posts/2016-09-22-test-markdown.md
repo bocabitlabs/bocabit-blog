@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Recapitulando
-subtitle: Each post also has a subtitle
+subtitle: Todo blog tiene su historia
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [personal]
